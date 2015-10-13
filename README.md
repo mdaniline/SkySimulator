@@ -1,4 +1,4 @@
 SkySimulator
 ============
 
-Simulate the sky using Raleigh and Mie scattering equations
+Simulate the sky using Rayleigh and Mie scattering equations
